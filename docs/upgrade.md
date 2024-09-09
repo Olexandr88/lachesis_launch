@@ -65,11 +65,11 @@ You can use either:
 
 #### Start the read-only node
 
-Follow [Launching go-opera readonly node](docs/setup-readonly-node.sh) and substitute migration flags above.
+Follow [Launching go-opera readonly node](./setup-readonly-node.sh) and substitute migration flags above.
 
 #### Start as a validator
 
-Follow [Launching go-opera validator node](docs/launch-validator.md) and substitute migration flags above.
+Follow [Launching go-opera validator node](./launch-validator.md) and substitute migration flags above.
 
 ### Cache size
 Regarding cache size, you may check your node available memory size and consider changing the default Opera cache size to a bigger value based on that. 
